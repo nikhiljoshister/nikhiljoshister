@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**nikhiljoshister/nikhiljoshister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an experienced Developer with experience in Java/Spring technologies.
 
 Here are some ideas to get you started:
 
