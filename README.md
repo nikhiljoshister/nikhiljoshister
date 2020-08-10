@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Mule ESB, Springbased projects
+- 🔭 I’m currently working on ... SpringBoot, Mule ESB.
 - 🌱 I’m currently learning ... AWS and Git.
 - 👯 I’m looking to collaborate on ... Springboot, MuleSoft
 - 🤔 I’m looking for help with ... AWS
